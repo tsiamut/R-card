@@ -2,6 +2,7 @@
 R language cheatsheet
 
 \setmainfont{[Helvetica.ttf]}
+
 \setsansfont{Consolas}
 \setCJKmainfont{[Alibaba-PuHuiTi-Regular.ttf]}
 \setCJKsansfont{[Alibaba-PuHuiTi-Medium.ttf]}
